@@ -1,0 +1,2 @@
+# MySchool
+School management application
