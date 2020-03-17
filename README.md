@@ -1,2 +1,2 @@
-# MySchool
+# MySchool - educcom
 School management application
